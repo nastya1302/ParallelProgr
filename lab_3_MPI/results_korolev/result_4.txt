@@ -1,0 +1,17 @@
+Total processes: 4
+Size: 100x100 | Avg time: 0.0016 sec
+Size: 200x200 | Avg time: 0.0147 sec
+Size: 300x300 | Avg time: 0.0170 sec
+Size: 400x400 | Avg time: 0.0242 sec
+Size: 500x500 | Avg time: 0.0375 sec
+Size: 600x600 | Avg time: 0.0511 sec
+Size: 700x700 | Avg time: 0.0982 sec
+Size: 800x800 | Avg time: 0.1061 sec
+Size: 900x900 | Avg time: 0.2737 sec
+Size: 1000x1000 | Avg time: 0.3209 sec
+Size: 1100x1100 | Avg time: 0.3516 sec
+Size: 1200x1200 | Avg time: 0.3847 sec
+Size: 1300x1300 | Avg time: 0.4970 sec
+Size: 1400x1400 | Avg time: 0.6242 sec
+Size: 1500x1500 | Avg time: 0.9375 sec
+Complete

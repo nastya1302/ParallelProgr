@@ -1,0 +1,15 @@
+Size: 100x100 | Avg time: 0.00125011 sec | Accuracy: 100%
+Size: 200x200 | Avg time: 0.00538951 sec | Accuracy: 100%
+Size: 300x300 | Avg time: 0.0172319 sec | Accuracy: 100%
+Size: 400x400 | Avg time: 0.0377678 sec | Accuracy: 100%
+Size: 500x500 | Avg time: 0.0738841 sec | Accuracy: 100%
+Size: 600x600 | Avg time: 0.121985 sec | Accuracy: 100%
+Size: 700x700 | Avg time: 0.187288 sec | Accuracy: 100%
+Size: 800x800 | Avg time: 0.274674 sec | Accuracy: 100%
+Size: 900x900 | Avg time: 0.381402 sec | Accuracy: 100%
+Size: 1000x1000 | Avg time: 0.510251 sec | Accuracy: 100%
+Size: 1100x1100 | Avg time: 0.707592 sec | Accuracy: 100%
+Size: 1200x1200 | Avg time: 1.00746 sec | Accuracy: 100%
+Size: 1300x1300 | Avg time: 1.4063 sec | Accuracy: 100%
+Size: 1400x1400 | Avg time: 1.77576 sec | Accuracy: 100%
+Size: 1500x1500 | Avg time: 2.17362 sec | Accuracy: 100%
